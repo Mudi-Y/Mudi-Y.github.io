@@ -11,7 +11,7 @@
   - Davenport College Richter Fellowship — Summer 2019
   - Yale College First-Year Summer Research Fellowship — Summer 2019
 
-- Summer schools:
+- Summer Schools and Research Programs:
   - STAQ Quantum Ideas Summer School, Duke University (Pratt School of Engineering) — Summer 2023
   - Cornell–Maryland–Max Planck Pre-Doctoral Research School (CMMRS) — Summer 2022
   - UCLA Bruins in Genomics (BIG) Research Program (NSF REU) — Summer 2020
