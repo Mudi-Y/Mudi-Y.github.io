@@ -4,6 +4,7 @@
 - Fellowships:
   - Yale College Dean's Research Fellowship — Summer 2020
   - Davenport College Richter Fellowship — Summer 2019
+    - Davenport is a residential college at Yale University.
   - Yale College First-Year Summer Research Fellowship — Summer 2019
 
 - Summer Schools & Research Programs:
@@ -19,7 +20,7 @@
 
 ## Major publications with title, citation and date
 - The QUATRO Application Suite: Quantum Computing for Models of Human Cognition.
-  - Citation: R. P. Pothukuchi et al., including M. Yang. arXiv:2309.00597
+  - Citation: R. P. Pothukuchi et al. arXiv:2309.00597
   - Developed quantum random-walk implementations on D-Wave quantum annealing systems to model the two-alternative forced-choice decision problem.
   - Link: https://arxiv.org/abs/2309.00597
 - Exploring the Impact of Sentiment Analysis on Current Methods of Fake News Detection.
@@ -58,7 +59,7 @@
   - Co-President, Yale Undergraduate Aerospace Association — 2020–2021
     - Led the largest on-campus engineering club; High-Altitude Balloon Team Lead (2019–2020); developed a GPS-guided parafoil system; received 2019 NASA Connecticut Space Grant.
   - Davenport Liaison, Davenport Pops Orchestra — 2018–2021 (CV notes 2019–2022)
-    - Coordinated grants, performance logistics, and relations between the orchestra and Davenport College.
+    - Coordinated grants, performance logistics, and relations between the orchestra and Davenport College (a residential college at Yale University).
 - Hackathon Projects:
   - YHACK 2020 — Covid Resource App
     - Android app implementing contact tracing, social distancing mapping, and a VR social distancing “ruler”.
