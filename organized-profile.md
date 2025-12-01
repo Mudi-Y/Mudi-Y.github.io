@@ -7,10 +7,10 @@
   - Yale College First-Year Summer Research Fellowship — Summer 2019
 
 - Summer Schools & Research Programs:
-  - STAQ Quantum Ideas Summer School, Duke University (Pratt School of Engineering) — Summer 2023
-  - Cornell–Maryland–Max Planck Pre-Doctoral Research School (CMMRS) — Summer 2022
-  - UCLA Bruins in Genomics (BIG) Research Program (NSF REU) — Summer 2020
-  - Pembroke King’s Programme, University of Cambridge — Summer 2019
+  - STAQ Quantum Ideas Summer School, Duke University (Pratt School of Engineering) https://staq.pratt.duke.edu/summer-school — Summer 2023
+  - Cornell–Maryland–Max Planck Pre-Doctoral Research School (CMMRS) https://cmmrs.mpi-sws.org — Summer 2022
+  - UCLA Bruins in Genomics (BIG) Research Program (NSF REU) https://qcb.ucla.edu/big-summer/ — Summer 2020
+  - Pembroke King’s Programme, University of Cambridge https://www.pem.cam.ac.uk/international-programmes/pembroke-cambridge-summer-programme  — Summer 2019
 
 - Awards:
   - YHack Hackathon — Winter 2021
