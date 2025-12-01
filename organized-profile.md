@@ -13,7 +13,7 @@
   - Pembroke King’s Programme, University of Cambridge — Summer 2019
 
 - Awards:
-  - YHack Hackathon — Winter 2022
+  - YHack Hackathon — Winter 2021
     - Top 5 finalist; Awards cited in CV: Best COVID-19 Related Hack (Citadel), Best Use of Google Cloud (Google)
   - UCLA BIG Research Excellence Award — Summer 2020
 
