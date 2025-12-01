@@ -35,6 +35,9 @@
   - Citation: M. Yang, L. Flores, H. Hunma, B. Trevisan. Yale Undergraduate Research Journal 3(1), 2022
   - Implemented a BERT-based sentiment analysis module to augment fake-news detection pipelines.
   - Link: https://mudiyang.com/assets/pubs/FakeNews.pdf
+- Extending the SHARPR-MPRA analytics pipeline with machine learning. (presentation)
+  - Citation: Ardren, Yang, Dincer, Ernst. UCLA Bruins In Genomics 2020 Poster Presentations.
+  -Link: https://qcb.ucla.edu/big-summer/big2020/#toggle-id-2
 - Radiation Emissions of Primordial Black Holes as Dark Matter in a Dwarf Galaxy.
   - Citation: M. Yang, K. Holley-Bockelmann, F. Munshi. Young Scientist 8:52–54, 2018
   - Modeled expected radiation signatures under the primordial black hole dark matter hypothesis.
@@ -42,8 +45,8 @@
 
 ## Teaching and work experience
 - Graphics Compiler Engineer, Qualcomm (Adreno Graphics Compiler) — 2022–Present
-  - Focus on OpenGL API feature development and maintenance in Qualcomm's Adreno graphics high-level compiler.
-  - Summer 2021 intern: Built an AMBER-based unit-testing framework for graphics and compute shaders; implemented package extensions based on team needs.
+  - Develop and maintain features in Qualcomm's Adreno graphics high-level compiler targeting OpenGL.
+  - Summer 2021 intern: Built an AMBER-based unit-testing framework for graphics and compute shaders.
 - Undergraduate Learning Assistant, Yale Dept. of Computer Science — 2021–2022
   - Assisted instruction and student support for CPSC 474/574 (Computational Intelligence for Games) and CPSC 201 (Mathematical Tools for Computer Science).
 
@@ -55,7 +58,7 @@
 - Student Researcher, Gerstein Bioinformatics Lab, Yale University — 2019–2021
   - I worked on full-stack development for the PARSE project, which aimed to identify potentially causal RNA-binding proteins (RBPs) and linkage disequilibrium variants related to disease. As part of this work, I conducted numerous statistical analyses on large-scale genomic and disease incidence data, in addition to creating a web interface to visualize the relationships among RBP sites, genetic mutations, and disease. This work was supervised by Dr. Jing Zhang (postdoc).
 - Summer Student Researcher, Jason Ernst Lab (UCLA BIG) — Summer 2020
-  - I participated in the 2020 edition of the UCLA Bruins in Genomics program, a NSF REU at the UCLA Institute for Quantitative and Computational Biosciences. I was advised by Dr. Jason Ernst (PI) and Tevfik Dincer (PhD student), and collaborated with Megan Ardren to implement a machine-learning extension of the Sharpr-MPRA statistical model for regulatory genomics analysis. A video of our final presentation is available here: https://qcb.ucla.edu/big-summer/big2020/
+  - I participated in the 2020 edition of the UCLA Bruins in Genomics program, a NSF REU at the UCLA Institute for Quantitative and Computational Biosciences. I was advised by Dr. Jason Ernst (PI) and Tevfik Dincer (PhD student), and collaborated with Megan Ardren to implement a machine-learning extension of the Sharpr-MPRA statistical model for regulatory genomics analysis. A video of our final presentation is available here: https://qcb.ucla.edu/big-summer/big2020/#toggle-id-2
 - Summer Student Researcher, Radev Group (LILY), Yale University — Summer 2019
   - I conducted NLP research during the summer of my first undergraduate year with the late Dr. Dragomir Radev and his PhD students Irene Li and Alex Fabbri. I proposed a hybrid extractive-abstractive deep learning model for the multi-document summarization problem, and we began exploratory work to implement such an architecture. As with many NLP projects at the time, we were quickly made redundant by BERT and GPT.
 - High School Student Researcher, Holley-Bockelmann Group, Vanderbilt University — 2017–2018
