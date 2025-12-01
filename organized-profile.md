@@ -3,20 +3,28 @@
 ## Honors, prizes, awards, and fellowships
 - Fellowships:
   - Yale College Dean's Research Fellowship — Summer 2020
+    - Summer research fellowship for Yale undergraduate students.
   - Davenport College Richter Fellowship — Summer 2019
-    - Davenport is a residential college at Yale University.
+    - Summer fellowship for independent research. Davenport is a residential college at Yale University.
   - Yale College First-Year Summer Research Fellowship — Summer 2019
+    - Summer research fellowship for Yale College first-year students.
 
 - Summer Schools & Research Programs:
-  - STAQ Quantum Ideas Summer School, Duke University (Pratt School of Engineering) https://staq.pratt.duke.edu/summer-school — Summer 2023
-  - Cornell–Maryland–Max Planck Pre-Doctoral Research School (CMMRS) https://cmmrs.mpi-sws.org — Summer 2022
-  - UCLA Bruins in Genomics (BIG) Research Program (NSF REU) https://qcb.ucla.edu/big-summer/ — Summer 2020
-  - Pembroke King’s Programme, University of Cambridge https://www.pem.cam.ac.uk/international-programmes/pembroke-cambridge-summer-programme  — Summer 2019
+  - STAQ Quantum Ideas Summer School, Duke University (Pratt School of Engineering) — Summer 2023
+    - Fully funded to attend the STAQ quantum computing summer school at the Pratt School of Engineering, Duke. https://staq.pratt.duke.edu/summer-school
+  - Cornell–Maryland–Max Planck Pre-Doctoral Research School (CMMRS) — Summer 2022
+    - Fully funded to attend the CMMRS research school at the Max Planck Institute for Software Systems, Germany. https://cmmrs.mpi-sws.org
+  - UCLA Bruins in Genomics (BIG) Research Program (NSF REU) — Summer 2020
+    - Selected and funded to pursue full time research for 8 weeks at UCLA in computational biology.
+      https://qcb.ucla.edu/big-summer/
+  - Pembroke King’s Programme, University of Cambridge — Summer 2019
+    - Selected to attend the 2019 Pembroke King's Programme, now Pembroke Summer Programme. https://www.pem.cam.ac.uk/international-programmes/pembroke-cambridge-summer-programme 
 
 - Awards:
   - YHack Hackathon — Winter 2021
     - Top 5 finalist; Awards cited in CV: Best COVID-19 Related Hack (Citadel), Best Use of Google Cloud (Google)
   - UCLA BIG Research Excellence Award — Summer 2020
+    - Recognized among top student researchers in the UCLA BIG Summer 2020 cohort.
 
 ## Major publications with title, citation and date
 - The QUATRO Application Suite: Quantum Computing for Models of Human Cognition.
