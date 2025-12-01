@@ -40,17 +40,18 @@
 
 ## Research experience
 - MS Student Researcher, Rubenstein & Yuen Group, Columbia University — 2024–Present
-  - Contributing to QExpress, a cross-platform optimizing compiler for neutral-atom, superconducting, and trapped-ion quantum computers.
+  - I am leading the compiler design and implementation for the QExpress cross-platform optimizing compiler project. This work aims to create an LLVM-like framework for compiler development for quantum computing applications, with the intention of reducing the burden of knowledge needed to program experimental quantum platforms. This work is ongoing and is also part of my MS thesis requirement.
 - Student Researcher, Bhattacharjee Group, Yale University — 2021–2024
-  - Developed, tested, and analyzed a quantum random-walk model for the two-alternative forced-choice (2AFC) decision problem (continuation of senior thesis).
+  - I worked with Dr. Bhattacharjee and Dr. Pothukuchi (postdoc) to implement a quantum random-walk model of the two-alternative forced-choice (2AFC) decision problem on D-Wave systems. This work is part of a larger effort to implement multiple cognitive models on quantum hardware. My contributions to this project formed the basis of my undergraduate senior thesis, and I continued to work on this project after graduating from Yale.
 - Student Researcher, Gerstein Bioinformatics Lab, Yale University — 2019–2021
-  - Full-stack development for the PARSE project identifying potentially causal RNA-binding proteins and linkage disequilibrium variants related to disease.
+  - I worked on full-stack development for the PARSE project, which aimed to identify potentially causal RNA-binding proteins (RBPs) and linkage disequilibrium variants related to disease. As part of this work, I conducted numerous statistical analyses on large-scale genomic and disease incidence data, in addition to creating a web interface to visualize the relationships among RBP sites, genetic mutations, and disease. This work was supervised by Dr. Jing Zhang (postdoc).
 - Summer Student Researcher, Jason Ernst Lab (UCLA BIG) — Summer 2020
-  - Implemented a machine-learning extension of the Sharpr-MRPA statistical model for regulatory genomics analysis.
+  - I participated in the 2020 edition of the UCLA Bruins in Genomics program, a NSF REU at the UCLA Institute for Quantitative and Computational Biosciences. I was advised by Dr. Jason Ernst (PI) and Tevfik Dincer (PhD student), and collaborated with Megan Ardren to implement a machine-learning extension of the Sharpr-MPRA statistical model for regulatory genomics analysis. A video of our final presentation is available here: https://qcb.ucla.edu/big-summer/big2020/
 - Summer Student Researcher, Radev Group (LILY), Yale University — Summer 2019
-  - Designed a hybrid extractive–abstractive deep learning model for multi-document summarization.
+  - I conducted NLP research during the summer of my first undergraduate year with the late Dr. Dragomir Radev and his PhD students Irene Li and Alex Fabbri. I proposed a hybrid extractive-abstractive deep learning model for the multi-document summarization problem, and we began exploratory work to implement such an architecture. As with many NLP projects at the time, we were quickly made redundant by BERT and GPT.
 - High School Student Researcher, Holley-Bockelmann Group, Vanderbilt University — 2017–2018
-  - Modeled physical consequences of the primordial black hole dark matter hypothesis as a high school research intern.
+  - I participated in a joint program between my local public school system and Vanderbilt University that allowed me take lessons at Vanderbilt one day each week during four years of high school (https://www.vanderbilt.edu/cseo-ssmv/). As part of this program, I had the opportunity to work with Dr. Kelly Holley-Bockelmann and John Hood (PhD student) on modeling potential radiation emissions of primordial black holes in their context as a dark matter candidate. This work produced a publication in the Young Scientist Journal as well as an award from the Tennessee Junior Academy of Sciences.
+
 
 ## Other experience, including military, volunteer work, travel
 - Leadership & Service:
